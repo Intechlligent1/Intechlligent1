@@ -23,7 +23,7 @@ I'm a passionate **Full Stack Web Developer**, **IoT Developer**, and **UI/UX De
 ## 📫 Reach Me
 - 📧 Email: [eniolaintechlligent@gmail.com](mailto:eniolaintechlligent@gmail.com)  
 - 📱 WhatsApp: +2348144477023  
-- 🌐 Portfolio: [Intechlligent.com](https://intechlligent.com) *(or GitHub link if you don’t have a domain yet)*
+- 🌐 Portfolio: [Intechlligent.com](https://intechlligent.com) 
 
 ## 😄 Pronouns
 He/Him
